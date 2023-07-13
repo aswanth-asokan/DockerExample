@@ -16,3 +16,4 @@ phases:
       - echo Build completed on `date`
       - echo Pushing the Docker image...
       - docker push 710198852569.dkr.ecr.us-west-2.amazonaws.com/aswanth:latest
+      
